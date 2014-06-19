@@ -1,3 +1,6 @@
 [submodule "autotool"]
 	path = autotool
 	url = https://slashhack@github.com/slashhack/autotool.git
+[submodule "epi"]
+	path = epi
+	url = https://slashhack@github.com/slashhack/epi.git
